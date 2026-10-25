@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ter-pasai-1",
+      "properties": {
+        "kingdom_id": "kd-samudera-pasai",
+        "name": "Wilayah Inti Kesultanan Samudera Pasai (Pesisir Timur Aceh)",
+        "temporal_start_year": 1267,
+        "temporal_end_year": 1521,
+        "spatial_precision": "approximate",
+        "evidence_summary": "Rekonstruksi berbasis catatan pelayaran Ibnu Battuta (1345 M) dan sebaran nisan berangka tahun dinasti Malikussaleh di muara Sungai Pasai & Peusangan.",
+        "source_ids": ["src-1", "src-4", "src-10"],
+        "verification_status": "verified",
+        "uncertainty_notes": ["Batas poligon menggambarkan zona konsentrasi pelabuhan dan makam, bukan garis tapal batas modern."]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [96.85, 5.35],
+            [97.45, 5.25],
+            [97.65, 4.85],
+            [97.30, 4.60],
+            [96.90, 4.90],
+            [96.85, 5.35]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ter-aceh-1",
+      "properties": {
+        "kingdom_id": "kd-aceh-darussalam",
+        "name": "Imperium Maritim Aceh Darussalam (Masa Sultan Iskandar Muda)",
+        "temporal_start_year": 1607,
+        "temporal_end_year": 1636,
+        "spatial_precision": "approximate",
+        "evidence_summary": "Berdasarkan catatan kitab Bustanus Salatin, surat diplomatik kepada Raja James I Inggris, dan pos pelabuhan lada di pesisir barat dan timur Sumatra.",
+        "source_ids": ["src-1", "src-5", "src-6"],
+        "verification_status": "verified",
+        "uncertainty_notes": ["Mencakup protektorat pesisir Sumatra dan pelabuhan lada bebas."]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [95.10, 5.95],
+            [97.50, 5.70],
+            [98.60, 4.50],
+            [99.20, 3.60],
+            [98.40, 2.20],
+            [96.50, 2.80],
+            [95.80, 4.20],
+            [95.10, 5.95]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ter-demak-1",
+      "properties": {
+        "kingdom_id": "kd-demak",
+        "name": "Wilayah Pengaruh Pesisir Utara Kesultanan Demak",
+        "temporal_start_year": 1478,
+        "temporal_end_year": 1546,
+        "spatial_precision": "approximate",
+        "evidence_summary": "Sintesis laporan Suma Oriental Tomé Pires (1515 M) tentang kota-kota pelabuhan muslim dan ekspedisi militer Sultan Trenggana.",
+        "source_ids": ["src-1", "src-3", "src-7"],
+        "verification_status": "partially_verified",
+        "uncertainty_notes": ["Hubungan dengan adipati pesisir berupa pengakuan kedaulatan dan upeti keagamaan."]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.80, -6.30],
+            [108.60, -6.50],
+            [110.80, -6.70],
+            [112.50, -6.80],
+            [112.80, -7.30],
+            [110.40, -7.60],
+            [107.50, -7.10],
+            [106.80, -6.30]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ter-banten-1",
+      "properties": {
+        "kingdom_id": "kd-banten",
+        "name": "Kesultanan Banten dan Hegemoni Selat Sunda - Lampung",
+        "temporal_start_year": 1552,
+        "temporal_end_year": 1683,
+        "spatial_precision": "approximate",
+        "evidence_summary": "Berdasarkan arsip piagam perjanjian lada Lampung-Banten dan catatan ekspedisi laut Belanda & Inggris di Selat Sunda.",
+        "source_ids": ["src-1", "src-2", "src-6"],
+        "verification_status": "verified",
+        "uncertainty_notes": ["Meliputi pesisir Banten dan pelabuhan lada di Lampung Selatan dan Teluk Semangka."]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [105.00, -5.00],
+            [106.00, -5.70],
+            [106.30, -5.90],
+            [106.70, -6.40],
+            [106.30, -6.90],
+            [105.20, -6.80],
+            [104.50, -5.80],
+            [105.00, -5.00]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ter-mataram-1",
+      "properties": {
+        "kingdom_id": "kd-mataram-islam",
+        "name": "Kedaulatan Mataram Islam (Era Sultan Agung Anyokrokusumo)",
+        "temporal_start_year": 1613,
+        "temporal_end_year": 1645,
+        "spatial_precision": "approximate",
+        "evidence_summary": "Berdasarkan Babad Tanah Jawi, catatan VOC Daghregister Kasteel Batavia, dan piagam tanah lungguh para adipati mancanegara.",
+        "source_ids": ["src-1", "src-2", "src-7"],
+        "verification_status": "verified",
+        "uncertainty_notes": ["Mencakup negaragung pedalaman Jawa Tengah, pesisir mancanegara wetan dan kulon."]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [108.80, -6.80],
+            [111.50, -6.70],
+            [113.80, -6.90],
+            [114.20, -7.70],
+            [112.50, -8.30],
+            [110.30, -8.10],
+            [109.00, -7.90],
+            [108.80, -6.80]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ter-banjar-1",
+      "properties": {
+        "kingdom_id": "kd-banjar",
+        "name": "Wilayah Kesultanan Banjar (DAS Barito & Pesisir Selatan Kalimantan)",
+        "temporal_start_year": 1526,
+        "temporal_end_year": 1860,
+        "spatial_precision": "approximate",
+        "evidence_summary": "Berdasarkan naskah Hikayat Banjar dan catatan pelabuhan lada Banjarmasin VOC.",
+        "source_ids": ["src-1", "src-2", "src-6", "src-11"],
+        "verification_status": "partially_verified",
+        "uncertainty_notes": ["Batas di pedalaman mengikuti daerah aliran sungai Barito, Martapura, dan Kahayan."]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.00, -1.80],
+            [115.80, -2.10],
+            [116.30, -3.30],
+            [115.00, -4.00],
+            [113.50, -3.50],
+            [114.00, -1.80]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ter-gowa-1",
+      "properties": {
+        "kingdom_id": "kd-gowa-tallo",
+        "name": "Kedaulatan Maritim Konfederasi Gowa-Tallo (Makassar)",
+        "temporal_start_year": 1605,
+        "temporal_end_year": 1667,
+        "spatial_precision": "approximate",
+        "evidence_summary": "Berdasarkan Lontara Bilang (Buku Harian Raja-raja Gowa-Tallo) dan naskah traktat Perjanjian Bungaya 1667.",
+        "source_ids": ["src-1", "src-6", "src-9"],
+        "verification_status": "verified",
+        "uncertainty_notes": ["Wilayah daratan inti semenanjung barat daya Sulawesi beserta jejaring pelabuhan sekutu."]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [119.50, -3.80],
+            [120.40, -4.50],
+            [120.60, -5.70],
+            [119.30, -5.80],
+            [119.20, -5.00],
+            [119.50, -3.80]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ter-ternate-1",
+      "properties": {
+        "kingdom_id": "kd-ternate",
+        "name": "Hegemoni Kepulauan Kesultanan Ternate (Era Sultan Baabullah)",
+        "temporal_start_year": 1570,
+        "temporal_end_year": 1583,
+        "spatial_precision": "approximate",
+        "evidence_summary": "Berdasarkan catatan sejarawan Leonard Andaya dan laporan ekspedisi Sir Francis Drake (1579 M).",
+        "source_ids": ["src-1", "src-6", "src-8"],
+        "verification_status": "partially_verified",
+        "uncertainty_notes": ["Pengaruh politik berbentuk persekutuan maritim antar-pulau Maluku Kie Raha."]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [127.50, 2.20],
+            [128.50, 1.50],
+            [127.80, 0.00],
+            [125.80, -1.80],
+            [124.50, 0.50],
+            [127.50, 2.20]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ter-tidore-1",
+      "properties": {
+        "kingdom_id": "kd-tidore",
+        "name": "Wilayah Kekuasaan Sultan Nuku (Tidore, Seram Timur & Kepulauan Papua)",
+        "temporal_start_year": 1797,
+        "temporal_end_year": 1805,
+        "spatial_precision": "approximate",
+        "evidence_summary": "Berdasarkan surat-surat Sultan Nuku kepada armada Inggris (EIC) dan piagam pengangkatan para Korano di Raja Ampat & Papua Barat.",
+        "source_ids": ["src-1", "src-8", "src-12"],
+        "verification_status": "partially_verified",
+        "uncertainty_notes": ["Menghubungkan kepemimpinan Halmahera, Kepulauan Raja Ampat, dan pesisir Semenanjung Onin."]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [127.30, 0.80],
+            [128.50, -0.50],
+            [130.00, -3.00],
+            [131.50, -1.50],
+            [132.80, -3.00],
+            [129.00, -1.00],
+            [127.30, 0.80]
+          ]
+        ]
+      }
+    }
+  ]
+}
